@@ -1,0 +1,123 @@
+body {
+    background-color: #fcbd00;
+}
+
+.header {
+    background-image: url('fondo-2.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: fit-content;
+}
+
+.container {
+    background-color: #1d2637;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+p {
+    color: #fff;
+}
+
+
+label {
+    color: #fff;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+table {
+    background-color: #5e5151;
+}
+
+th {
+    background-color: #94029c;
+    color: #ffffff;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+button {
+    background-color: #BF4BB7;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-editar {
+    background-color: #fcbd00;
+    color: #2d2d2d;
+    border: none;
+    padding: 5px 20px;
+    margin: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-eliminar {
+    background-color: #A64484;
+    color: #fff;
+    border: none;
+    padding: 5px 20px;
+    margin: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-guardar {
+    background-color: #BF4BB7;
+    color: #fff;
+    border: none;
+    padding: 5px 20px;
+    margin: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-cancelar {
+    background-color: #9a01f2;
+    color: #fff;
+    border: none;
+    padding: 5px 20px;
+    margin: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+/* Por ejemplo, puedes establecer un margen inferior para evitar que el contenido se superponga con el footer. */
+.main-content {
+    margin-bottom: 100px;
+    /* Ajusta la altura del footer */
+}
+
+/* Estilo para el footer fijo en la parte inferior */
+.footer-item {
+    position: relative;
+    /* Cambia la posición a relative */
+    width: 100%;
+}
+
+/* Estilo para el contenido del footer */
+.derechos {
+    background-color: #BF4BB7;
+    color: aliceblue;
+    font-size: 1em;
+    text-align: center;
+    padding: 1em;
+}
