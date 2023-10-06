@@ -8,4 +8,4 @@ Se trata de un CRUD para agregar una lista de jugadores, con nombre, correo y ID
 ![Banner](assets/img/ui.jpg)
 
 # 1. Preview del sitio:
-https://valeriaramirezm.github.io/VR-BOOT-M1-SEM4-PROY1/
+https://valeriaramirezm.github.io/BOOT-M1-SEM8-PROY2/
