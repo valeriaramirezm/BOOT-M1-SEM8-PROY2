@@ -2,6 +2,22 @@ body {
     background-color: #fcbd00;
 }
 
+.cabecera {
+    background-color: #fcbd00;
+}
+
+.bienvenida {
+    font-size: 2rem;
+    color: #fcbd00;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.inscribete {
+    font-size: 2rem;
+    color: #BF4BB7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .header {
     background-image: url('fondo-2.jpg');
     height: 100vh;
